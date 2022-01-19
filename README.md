@@ -12,10 +12,10 @@ Max wager for all flips will be initially set with .1 BNB, with this number set 
 
 # Revenue Model 
 The 4% revenue will be directed to 4 seperate wallets. 
-  1% to sustainability causes
-  1% to Fluff Inu Holder Wallet
-  1% to grow the house Wallet
-  1% to token burn Wallet. 
+ /n 1% to sustainability causes
+ /n 1% to Fluff Inu Holder Wallet
+ /n 1% to grow the house Wallet
+ /n 1% to token burn Wallet. 
 
 # Sustainability 
 Fluff Inu will be purchasing trees to be planted and carbon offsets with the 1% sustainability proceeds from Fluff Flip. 
